@@ -1,4 +1,4 @@
-# senior_project
+# CHURN NOT CHURN?
 
 # Customer Churn Prediction
 
